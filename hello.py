@@ -1,4 +1,2 @@
-greeting = "Hello"
-name = "World"
-greeting = greeting + name
+greeting = "Hello" + "world"
 print(greeting)
