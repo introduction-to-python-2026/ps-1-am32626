@@ -1,4 +1,4 @@
 greeting = "Hello"
 name = " world"
-greeting = greeting + " " + name + "!"
+greeting = greeting + name + "!"
 print(greeting)
